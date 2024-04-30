@@ -1,0 +1,32 @@
+.main {
+  padding: 0 70px;
+}
+
+.text {
+  font-size: 28px;
+  font-weight: 500;
+}
+
+.help {
+  border-radius: 10px;
+  text-align: center;
+  background-color: aliceblue;
+  color: black;
+  padding: 25px;
+  height: max-content;
+  margin-bottom: 30px;
+}
+.title {
+  font-size: 28px;
+  font-weight: 600;
+  margin-bottom: 30px;
+}
+
+p {
+  text-indent: 15px;
+}
+
+.hoverVideo:hover {
+  transition: all, 1.5s;
+  scale: 1.1;
+}

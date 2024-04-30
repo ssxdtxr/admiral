@@ -1,0 +1,63 @@
+.main {
+  display: flex;
+  justify-content: space-around;
+  padding: 0 70px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  padding: 25px;
+  background-color: aliceblue;
+  color: black;
+  border-radius: 10px;
+  width: 400px;
+}
+
+.variants {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 14px;
+  /* align-items: center; */
+}
+
+.name {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-weight: 500;
+  background-color: #29303b;
+  color: aliceblue;
+  padding: 12px 13px;
+  border-radius: 7px;
+}
+
+.name:hover {
+  cursor: pointer;
+  opacity: 0.9;
+}
+
+.arrow {
+  padding-right: 10px;
+  color: aliceblue;
+}
+
+.arrowUn {
+  padding-right: 10px;
+  color: aliceblue;
+}
+
+.activeName {
+  background-color: aliceblue;
+  border: 1px solid #29303b;
+  color: #29303b;
+}
+
+.info {
+  background-color: antiquewhite;
+  letter-spacing: 1.3px;
+  padding: 10px 4px;
+  border-radius: 4px;
+  font-weight: 500;
+}

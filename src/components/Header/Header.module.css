@@ -1,0 +1,14 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 28px;
+}
+
+.logo {
+  font-size: large;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}

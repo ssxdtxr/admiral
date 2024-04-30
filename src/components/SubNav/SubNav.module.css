@@ -1,0 +1,24 @@
+.nav {
+  padding: 10px 28px;
+}
+
+.list {
+  display: flex;
+  align-items: center;
+
+  gap: 10px;
+}
+
+.item {
+  padding: 6px 16px;
+  border-radius: 30px;
+}
+
+.item:hover {
+  transition: all 1000ms;
+  background-color: #010413;
+}
+
+.active {
+  background-color: #010413;
+}

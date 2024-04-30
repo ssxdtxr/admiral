@@ -1,0 +1,20 @@
+.blockf {
+  font-size: large;
+
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  padding: 20px;
+}
+.section {
+  border-bottom: 1px solid #ffffffa9;
+}
+
+.main {
+  padding: 0 70px;
+}
+
+.text {
+  font-size: 40px;
+  font-weight: 500;
+}
