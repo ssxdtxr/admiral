@@ -69,7 +69,7 @@ export const Opening = () => {
           </div>
           {isAddress && (
             <div className={styles.info}>
-              Admiralteyskaya square, the city of Voronezh
+              Admiralteyskaya square, the city of Voronezh 394035
             </div>
           )}
 

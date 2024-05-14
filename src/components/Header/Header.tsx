@@ -8,7 +8,7 @@ const Header = () => {
         <img src={logo} alt="Логотип" />
         <span>Goto Predestinatsia</span>
       </div>
-      <button>Book Tickets</button>
+      <button className={styles.button}>Book Tickets</button>
     </div>
   );
 };
